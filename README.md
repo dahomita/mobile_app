@@ -21,7 +21,7 @@ Firebase (Optional) – Used for authentication & real-time data
 
 📥 Installation & Setup
 1️⃣ Clone the repository:
-git clone https://github.com/yourusername/dating-app.git
+
 cd dating-app
 2️⃣ Install dependencies:
 npm install

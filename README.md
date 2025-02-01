@@ -20,12 +20,14 @@ Firebase (Optional) – Used for authentication & real-time data
 ✅ Customizable Animations – Dynamic card effects
 
 📥 Installation & Setup
-1️⃣ Clone the repository:
+1️⃣ Clone the repository:https://github.com/dahomita/mobile_app.git
+cd AppDating
 
-cd dating-app
 2️⃣ Install dependencies:
 npm install
+
 3️⃣ Run the app on an emulator or device:
 npx expo start
+
 📱 Scan the QR code using Expo Go on your phone to run the app.
 
